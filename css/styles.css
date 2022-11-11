@@ -122,3 +122,49 @@
     color: #00ad5e;
     background-color: #fff;
 }
+
+/* Mobile / responsivo */
+@media(max-width:450px){
+    #main-container{
+        height: 100%;
+        flex-wrap: wrap;
+    }
+
+    #form-container,
+    #address-container{
+        flex: 1 1 100%;
+    }
+
+    #form-container{
+        order: -1;
+        padding: 20px;
+    }
+
+    #form-container h2{
+        margin-bottom: 25px;
+    }
+
+    #contact-form{
+        width: 100%;
+    }
+
+    #contact-form label,
+    #contact-form input,
+    #contact-form textarea{
+        border-color: #aaa;
+    }
+
+    #address-container{
+        background-position: 0;
+        height: 500px;
+    }
+
+    .fade{
+        opacity: .9;
+    }
+
+    #address-content{
+        top: 25%;
+        left: 25%;
+    }
+}
