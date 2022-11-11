@@ -10,7 +10,7 @@
 #main-container{
     display: flex;
     flex-direction: row;
-    height: 100vh;
+    height: 100vh; /* view height altura da tela */
 }
 
 #address-container, #form-container{
@@ -27,6 +27,7 @@
     color: #fff;
     position: relative;
 }
+
 
 .fade{
     width: 100%;
