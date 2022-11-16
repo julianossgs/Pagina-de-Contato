@@ -8,3 +8,6 @@ Fazer cadastro com nome,email,telefone e mensagem
 
 * HTML
 * CSS
+
+#### Contribuidor principal:
+https://github.com/julianossgs/julianossgs.github.io
