@@ -1,4 +1,5 @@
 # Página de Contato
+Página de contato **responsiva em Html e Css.**
 
 ## Funcionalidades:
 Fazer cadastro com nome,email,telefone e mensagem
